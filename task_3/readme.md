@@ -1,4 +1,4 @@
-#Task 3: Python and Cloud Function
+# Task 3: Python and Cloud Function
 
 We started by learning about VIM, which is a highly configurable text editor that is commonly used by developers. We learned about its features, commands, and how to customize it to suit our needs. This was important because VIM is often used in server environments where graphical user interfaces may not be available.
 
