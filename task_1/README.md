@@ -11,3 +11,11 @@ Next, we set up a Github account and connected it with our Google Cloud account 
 Cloud Shell Commands
 Once our accounts were set up, we started learning how to use Cloud Shell by exploring the basic commands and features
 
+
+### Goals of the Task 1
+
+1. Learn what Cloud Comupting is
+2. Setup working environment and GitHub Repository
+3. Learn how to manage Cloude
+4. Run the first command in Cloud Shel
+
